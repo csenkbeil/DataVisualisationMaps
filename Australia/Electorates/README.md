@@ -4,3 +4,5 @@ Australian Federal Electorate Boundary map
 (with State Boundaries made with Natural Earth)
 
 Please read LICENCE for licence details.
+
+TODO: Documentation and examples
